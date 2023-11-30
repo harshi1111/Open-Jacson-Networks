@@ -14,16 +14,13 @@ Visual components and Python
 
 ## EXPERIMENT :
 ![image](https://github.com/harshi1111/Open-Jacson-Networks/assets/84671735/b69f9fa9-3a68-4998-9a6d-f1f96fdea6b2)
-
 ![image](https://github.com/harshi1111/Open-Jacson-Networks/assets/84671735/60d02ed7-f87b-4f75-ba7f-af6ed09ce810)
 
 ## PROGRAM :
 ```
 NAME: HARSHITHA V
 REG NO: 23002305
-```
 
-```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
