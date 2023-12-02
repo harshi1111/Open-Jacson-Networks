@@ -9,6 +9,7 @@
 ## THEORY :
 ![image](https://github.com/harshi1111/Open-Jacson-Networks/assets/84671735/fe192d7e-874a-4cd7-be05-22378b30f231)
 
+
 ## PROCEDURE :
 ![image](https://github.com/harshi1111/Open-Jacson-Networks/assets/84671735/8058ada6-ff73-497c-8df4-781dd6e6699a)
 
@@ -62,6 +63,7 @@ print("----------------------------------------------------------------------")
 
 ## OUTPUT :
 ![image](https://github.com/harshi1111/Open-Jacson-Networks/assets/84671735/a0731302-d9d6-4a21-992b-af43e2c02011)
+
 
 ## RESULT :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
